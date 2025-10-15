@@ -55,9 +55,9 @@ TEXT_EMOTION_CLASSIFIER
 
 ## Usage
 
-- Use `notebooks/01_data_preparation.ipynb` for data cleaning and exploration.
-- Fine-tune DistilBERT with `notebooks/02_BERT_Model.ipynb`.
-- Evaluate with `notebooks/03_evaluation.ipynb`.
+- Use `notebooks/data_preparation.ipynb` for data cleaning and exploration.
+- Fine-tune DistilBERT with `notebooks/BERT_Model.ipynb`.
+- Evaluate with `notebooks/evaluation.ipynb`.
 - Serve predictions via FastAPI using `app.py` or Docker.
 
 ## API
